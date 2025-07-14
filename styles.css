@@ -1,0 +1,17 @@
+
+.winky-rough-font1 {
+  font-family: "Winky Rough", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+}
+
+
+#homepageheader {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding: 20px
+}
+h2 {
+  font-family: "Winky Rough", sans-serif;
+  width: 50%;
+}
